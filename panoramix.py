@@ -88,6 +88,7 @@ addr_shortcuts = {
     # a ctx with modern solidity, bst dispatch and multiple edge cases
     "ugly": "0x06a6a7aF298129E3a2AB396c9C06F91D3C54aBA8",
     "dao": "0xF835A0247b0063C04EF22006eBe57c5F11977Cc4",
+    "dao": "0x333233647e94d928d7c3E4255797D6fd0b0437d9",
 }
 
 
